@@ -25,7 +25,7 @@ public class Main {
                 System.out.println("«Сумма трат за месяц составила " + sum + " рублей»");
             }
             System.out.println();
-            System.out.println("Задание 10.2.");
+            System.out.println("Задание 10.2");
             int maxArr = 100_000;
             int minArr = 200_000;
             for (int j = 0; j < arr.length; j++) {
